@@ -3,4 +3,5 @@ O desafio será ajudar organizar o abrigo de animais, onde somos reposaveis por 
  -JavaScript liguangem de programação
  -OOP
  -Array 
+ -Instalei a lib readline-sync
 Se tiver mais tecnicas e tecnologia irei concatenar na lista acima.

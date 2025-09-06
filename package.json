@@ -1,0 +1,23 @@
+{
+  "name": "desafio-paimvianna-2025",
+  "version": "0.0.1",
+  "description": "estou no momento so colocando objetos no array e colocando a lib readline-sync para fazer os inputs.",
+  "homepage": "https://github.com/paimvianna/dasafio-paimvianna-2025#readme",
+  "bugs": {
+    "url": "https://github.com/paimvianna/dasafio-paimvianna-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paimvianna/dasafio-paimvianna-2025.git"
+  },
+  "license": "ISC",
+  "author": "anderson paim dos santos vianna",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
